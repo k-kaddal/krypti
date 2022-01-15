@@ -1,5 +1,4 @@
 <!-- PROJECT LOGO -->
-<br />
 <div align="left">
   <h3 align="left">KRYPTI</h3>
 
