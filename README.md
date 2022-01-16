@@ -93,7 +93,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 - [x] Setup
 - [x] Navbar
-- [ ] Welcome Section
+- [x] Welcome Section
 - [ ] Smart Contract
 - [ ] Services Section
 - [ ] Transactions
