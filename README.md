@@ -3,15 +3,15 @@
   <h3 align="left">KRYPTI</h3>
 
   <p align="left">
-    A decentralized app for ETH transaction, deployed on Ethereum netwok!
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    A decentralized app for ETH transaction, gifs and messages.
+    <!-- <br /> -->
+    <!-- <br /> -->
+    <!-- <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a> -->
   </p>
 </div>
 
 <!-- TABLE OF CONTENTS -->
-  <summary>Table of Contents</summary>
+  <!--<summary>Table of Contents</summary>
   <ul>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -19,19 +19,23 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
+     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <!-- <li><a href="#usage">Usage</a></li> -->
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <!-- <li><a href="#contributing">Contributing</a></li> -->
-    <!-- <li><a href="#license">License</a></li> -->
-    <!-- <li><a href="#acknowledgments">Acknowledgments</a></li> -->
+
+    <li><a href="#usage">Usage</a></li>
+     <li><a href="#roadmap">Roadmap</a></li>
+     <li><a href="#roadmap">Roadmap</a></li>
+     <li><a href="#roadmap">Roadmap</a></li>
+    <a href="#contact">Contact</a></li>
+     <li><a href="#contributing">Contributing</a></li>
+     <li><a href="#license">License</a></li>
+     <li><a href="#acknowledgments">Acknowledgments</a></li> -->
+
   </ul>
 
 <!-- ABOUT THE PROJECT -->
@@ -40,22 +44,24 @@
 
 <!-- [![Product Name Scregen Shot][product-screenshot]](https://example.com) -->
 
-This is a decentralised web app (dapp) that allows user to transact ETH crypto currency to any Metamask address.
-The dapp is connected to the Ethermeum blockchain and links any issued transaction to EtherScan from which the contract could be viewed.
+This is a decentralised web app (dapp) that allows user to transact ETH, accompanied with messages and keywords for gifs. The dapp is connected to the Ethermeum blockchain and links any issued transaction to etherscan.com from which the contract could be viewed.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#top">back to top</a>)</p> -->
 
 ### Built With
 
 <!-- * [Next.js](https://nextjs.org/) -->
 
-- [React.js](https://reactjs.org/)
+- [React.js]
+- [Ethers.js]
+- [Solidity]
+- [Tailwind]
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#top">back to top</a>)</p> -->
 
 <!-- GETTING STARTED -->
 
-## Getting Started
+<!-- ## Getting Started
 
 ### Prerequisites
 
@@ -75,7 +81,7 @@ The dapp is connected to the Ethermeum blockchain and links any issued transacti
    npm install
    ```
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p> -->
 
 <!-- USAGE EXAMPLES
 
@@ -96,22 +102,22 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [x] Welcome Section
 - [x] Smart Contract
 - [x] Services Section
-- [ ] Transactions
-- [ ] Deployment
+- [x] Transactions
+<!-- - [ ] Deployment -->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
-## License
+<!-- ## License
 
 MIT License.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p> -->
 
 <!-- CONTACT -->
 
-## Contact
+<!-- ## Contact
 
 LinkedIn: [https://www.linkedin.com/in/khaledkadal/](https://twitter.com/KhaledKaddal)
 
@@ -121,4 +127,4 @@ Email: [khaledkadda@gmail.com]khaledkaddal@gmail.com
 
 Project Repo: [https://github.com/k-kaddal/krypti](https://github.com/k-kaddal/krypti)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p> -->
