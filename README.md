@@ -95,7 +95,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [x] Navbar
 - [x] Welcome Section
 - [x] Smart Contract
-- [ ] Services Section
+- [x] Services Section
 - [ ] Transactions
 - [ ] Deployment
 
